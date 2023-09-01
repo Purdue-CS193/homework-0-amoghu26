@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Only a 1 credit hour course
+- No quizzes or tests!
+- Big class and a lot of people that I know
 
 1. Numbered
 2. List
